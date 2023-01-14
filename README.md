@@ -6,6 +6,7 @@
 2. [tnoodle-cli](https://aur.archlinux.org/packages/tnoodle-cli)* is Unofficial CLI version of TNoodle made by @SpeedcuberOSS, giving easier access to scramble generation and drawing.
 ## Arch Linux-specific scripts.
 csTimerToElectron.sh* - Downloads NPM, installs nativefier and converts csTimer to Electron application.
+cubbingEssentials.sh* (wip) - Installs TNoodle (both wca and cli) and csTimer
 
 ## Notes:
 1. All archlinux-specific scripts can be submitted by creating pull request
