@@ -1,5 +1,5 @@
 # Arch Linux for Speedcubers
-#### list of packages and things (like aur pkgs) for easier access on arch linux
+#### list of packages (including aur pkgs) and scripts for easier access to cubing software on arch linux
 -------
 ## AUR Packages
 1. [tnoodle-wca](https://aur.archlinux.org/packages/tnoodle-wca)*. tnoodle-wca (TNoodle) is original TNoodle Program by World Cube Association that works in Web browser.
